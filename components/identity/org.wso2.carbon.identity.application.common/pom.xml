@@ -36,6 +36,11 @@
             <groupId>org.wso2.carbon</groupId>
             <artifactId>org.wso2.carbon.claim.mgt</artifactId>
         </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
     <packaging>bundle</packaging>
     <name>WSO2 Carbon - Identity Application Common Bundle</name>        
